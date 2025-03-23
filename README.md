@@ -1,3 +1,15 @@
+# Integrantes do Grupo:
+
+Alex See Yoon Koo; RA: 10332617
+
+Matheus Marques; RA: 10395894
+
+Pedro Henrique Rocha; RA: 10396190
+
+Felipe Clé Monteiro; RA:10395521
+
+Camila Faleiros; RA: 10395818
+
 # ERP Financeiro com Streamlit
 
 Este é uma simulaçaõ de um sistema **ERP Financeiro** simples, desenvolvido com **Streamlit** e **SQLite**, para gerenciamento de clientes, contas a pagar, contas a receber e lançamentos financeiros.
